@@ -6,3 +6,5 @@ alert(name);
 
 const x = prompt('Introduce un numero')
 alert(x)
+
+alert('Esto es una prueba de git y github')
